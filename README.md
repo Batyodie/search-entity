@@ -36,7 +36,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Batyodie/pizza-vue.git
+$ git clone https://github.com/Batyodie/search-entity.git
 
 # Go into the repository
 $ cd pizza-vue
