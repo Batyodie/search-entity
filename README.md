@@ -15,6 +15,8 @@
   <a href="https://search-entity-batyodie.vercel.app/">Preview</a>
 </p>
 
+![App Screenshot](https://res.cloudinary.com/pizza-vue/image/upload/v1614949892/Screenshot_3_jippt3.png)
+
 ## :rocket: Technologies
 
 This project was developed using the following technologies:
